@@ -22,3 +22,5 @@ All this is just for that search page's UI. If you can't find someone comfortabl
 3. Daily digest email template & associated dailymailer script. (+cron)
 4. A signup box on the homepage that posts to the subscribe view in alerts.
 5. Categorization & viz.
+6. Digitize information architecture/ wireframe
+7. Write content/architecture for MAIN page in raw html
